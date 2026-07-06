@@ -1,0 +1,10 @@
+packet_count,byte_count,min_len,max_len,mean_len,proto_tcp,proto_udp,proto_icmp,Label,Service_FTP,Service_HTTP,Service_ICMP,Service_TCP,Service_UDP
+80058,67621960,54,1314,844.6621199630268,80058,0,0,1,False,True,False,False,False
+129,10200,54,120,79.06976744186046,129,0,0,0,True,False,False,False,False
+100000,11400000,114,114,114.0,0,0,1030269,1,False,False,True,False,False
+70324,85214376,554,1314,1211.7396052556735,0,70324,0,1,False,False,False,False,True
+5437,4545560,54,1514,836.0419348905647,5437,0,0,0,False,True,False,False,False
+230447,26270958,114,114,114.0,0,0,230447,0,False,False,True,False,False
+9402,11351112,46,1314,1207.308232291002,0,9402,0,0,False,False,False,False,True
+209611,189223736,54,1514,902.7376235025832,209611,0,0,1,False,False,False,True,False
+43,3371,54,120,78.3953488372093,43,0,0,1,True,False,False,False,False
